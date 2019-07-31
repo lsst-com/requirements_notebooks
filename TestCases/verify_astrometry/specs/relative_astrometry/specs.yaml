@@ -1,0 +1,8 @@
+name: "design"
+metric: "AM1"
+threshold:
+  operator: "<="
+  unit: "mas"
+  value: 10.0
+tags:
+  - "design"

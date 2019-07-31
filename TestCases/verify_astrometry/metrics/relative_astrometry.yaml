@@ -1,0 +1,10 @@
+AM1:
+  unit: mas
+  description:
+    Median error in measurements of all pairs of sources separated by ~5 arcminutes.
+  reference:
+    doc: LSE-030
+    page: 57
+    url: https://docushare.lsst.org/docushare/dsweb/Get/LSE-030#page=68
+  tags:
+    - astrometry
