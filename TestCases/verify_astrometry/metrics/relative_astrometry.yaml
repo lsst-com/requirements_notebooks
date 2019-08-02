@@ -8,3 +8,36 @@ AM1:
     url: https://docushare.lsst.org/docushare/dsweb/Get/LSE-030#page=68
   tags:
     - astrometry
+    
+AM2:
+  unit: mas
+  description:
+    Median error in measurements of all pairs of sources separated by ~20 arcminutes.
+  reference:
+    doc: LSE-030
+    page: 57
+    url: https://docushare.lsst.org/docushare/dsweb/Get/LSE-030#page=68
+  tags:
+    - astrometry
+
+AD1:
+  unit: ""
+  description:
+    Outlier fraction (>20mas) in measurements of all pairs of sources separated by ~5 arcminutes.
+  reference:
+    doc: LSE-030
+    page: 57
+    url: https://docushare.lsst.org/docushare/dsweb/Get/LSE-030#page=68
+  tags:
+    - astrometry
+    
+AD2:
+  unit: ""
+  description:
+    Outlier fraction (>20mas) in measurements of all pairs of sources separated by ~20 arcminutes.
+  reference:
+    doc: LSE-030
+    page: 57
+    url: https://docushare.lsst.org/docushare/dsweb/Get/LSE-030#page=68
+  tags:
+    - astrometry

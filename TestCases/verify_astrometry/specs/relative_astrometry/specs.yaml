@@ -6,3 +6,30 @@ threshold:
   value: 10.0
 tags:
   - "design"
+---
+name: "design"
+metric: "AM2"
+threshold:
+  operator: "<="
+  unit: "mas"
+  value: 10.0
+tags:
+  - "design"
+---
+name: "design"
+metric: "AD1"
+threshold:
+  operator: "<="
+  unit: ""
+  value: 0.10
+tags:
+  - "design"
+---  
+name: "design"
+metric: "AD2"
+threshold:
+  operator: "<="
+  unit: ""
+  value: 0.10
+tags:
+  - "design"
