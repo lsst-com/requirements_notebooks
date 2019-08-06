@@ -1,0 +1,35 @@
+name: "design"
+metric: "AM1"
+threshold:
+  operator: "<="
+  unit: "mas"
+  value: 10.0
+tags:
+  - "design"
+---
+name: "design"
+metric: "AM2"
+threshold:
+  operator: "<="
+  unit: "mas"
+  value: 10.0
+tags:
+  - "design"
+---
+name: "design"
+metric: "AF1"
+threshold:
+  operator: "<="
+  unit: ""
+  value: 0.10
+tags:
+  - "design"
+---  
+name: "design"
+metric: "AF2"
+threshold:
+  operator: "<="
+  unit: ""
+  value: 0.10
+tags:
+  - "design"
