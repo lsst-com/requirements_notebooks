@@ -20,7 +20,7 @@ AM2:
   tags:
     - astrometry
 
-AD1:
+AF1:
   unit: ""
   description:
     Outlier fraction (>20mas) in measurements of all pairs of sources separated by ~5 arcminutes.
@@ -31,7 +31,7 @@ AD1:
   tags:
     - astrometry
     
-AD2:
+AF2:
   unit: ""
   description:
     Outlier fraction (>20mas) in measurements of all pairs of sources separated by ~20 arcminutes.
