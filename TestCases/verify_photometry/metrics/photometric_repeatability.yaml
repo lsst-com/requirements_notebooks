@@ -3,18 +3,18 @@ PA1uzy:
     description:
       The RMS photometric repeatability of bright non-saturated unresolved point sources in u, z, and y filters.
     reference:
-        LSE-030
+        doc: LSE-030
 
 PA1gri:
     unit: mag
     description:
       The RMS photometric repeatability of bright non-saturated unresolved point sources in g, r, and i filters.
     reference:
-        LSE-030
+        doc: LSE-030
 
 PF1:
-    unit: unitless
+    unit: ""
     description:
         The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
     reference:
-        LSE-030
+        doc: LSE-030
