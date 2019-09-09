@@ -16,5 +16,5 @@ name: "design"
 metric: "PF1"
 threshold:
     operator: "<="
-    unit: "unitless"
+    unit: ""
     value: 0.1
