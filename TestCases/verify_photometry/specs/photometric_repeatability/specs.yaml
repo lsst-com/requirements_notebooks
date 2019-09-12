@@ -4,14 +4,14 @@ threshold:
     operator: "<="
     unit: "mag"
     value: 0.0075
-
+---
 name: "design"
 metric: "PA1gri"
 threshold:
     operator: "<="
     unit: "mag"
     value: 0.005
-
+---
 name: "design"
 metric: "PF1"
 threshold:
