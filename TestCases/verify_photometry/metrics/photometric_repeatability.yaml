@@ -1,18 +1,81 @@
-PA1uzy:
+PA1u:
     unit: mag
     description:
       The RMS photometric repeatability of bright non-saturated unresolved point sources in u, z, and y filters.
     reference:
         doc: LSE-030
 
-PA1gri:
+PA1z:
+    unit: mag
+    description:
+      The RMS photometric repeatability of bright non-saturated unresolved point sources in u, z, and y filters.
+    reference:
+        doc: LSE-030
+
+PA1y:
+    unit: mag
+    description:
+      The RMS photometric repeatability of bright non-saturated unresolved point sources in u, z, and y filters.
+    reference:
+        doc: LSE-030
+
+PA1g:
     unit: mag
     description:
       The RMS photometric repeatability of bright non-saturated unresolved point sources in g, r, and i filters.
     reference:
         doc: LSE-030
 
-PF1:
+PA1r:
+    unit: mag
+    description:
+      The RMS photometric repeatability of bright non-saturated unresolved point sources in g, r, and i filters.
+    reference:
+        doc: LSE-030
+
+PA1i:
+    unit: mag
+    description:
+      The RMS photometric repeatability of bright non-saturated unresolved point sources in g, r, and i filters.
+    reference:
+        doc: LSE-030
+
+PF1u:
+    unit: ""
+    description:
+        The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
+    reference:
+        doc: LSE-030
+
+PF1g:
+    unit: ""
+    description:
+        The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
+    reference:
+        doc: LSE-030
+
+PF1r:
+    unit: ""
+    description:
+        The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
+    reference:
+        doc: LSE-030
+
+PF1i:
+    unit: ""
+    description:
+        The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
+    reference:
+        doc: LSE-030
+
+PF1z:
+    unit: ""
+    description:
+        The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
+    reference:
+        doc: LSE-030
+
+PF1y:
     unit: ""
     description:
         The maximum fraction of isolated non-saturated point source measurements exceeding the outlier limit.
