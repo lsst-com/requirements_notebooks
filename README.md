@@ -1,6 +1,8 @@
 # requirements_notebooks
 Repository for notebooks implementing LSST commissioning tests
 
+List of available OSS requirements notebooks and progress tracker: [Link](https://docs.google.com/spreadsheets/d/1XMoN4XO00d0kcy-_ERPsaLs7UOTCUZifzVeX7D9rLQ4/edit?usp=sharing)
+
 ## Notebook Status Table
 | Title   | Description   | Notebook  |
 | --- | --- | --- |
