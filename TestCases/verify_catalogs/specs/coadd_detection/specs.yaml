@@ -1,0 +1,8 @@
+name: "design"
+metric: "falseDeepDetect"
+threshold:
+  operator: "<="
+  unit: ""
+  value: 0.001
+tags:
+  - "design"

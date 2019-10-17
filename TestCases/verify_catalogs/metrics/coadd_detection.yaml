@@ -1,0 +1,10 @@
+falseDeepDetect:
+  unit: ""
+  description:
+    Fraction of all detections on deep detection coadds caused by unremoved artifacts
+  reference:
+    doc: LSE-030
+    page: 51
+    url: https://docushare.lsst.org/docushare/dsweb/Get/LSE-030#page=60
+  tags:
+    - catalogs
